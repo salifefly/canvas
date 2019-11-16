@@ -19,7 +19,6 @@ pen.onclick = function () {
     eraser.classList.remove('active')
 }
 
-
 thin.onclick = function () {
     lineWidth = 3;
 }
